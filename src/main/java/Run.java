@@ -3,8 +3,8 @@
  */
 public class Run {
 
-    public static int alwayaTrue(int a, int b){
-        return a - b + 1;
+    public static boolean alwayaTrue(){
+        return false;
     }
 
 }

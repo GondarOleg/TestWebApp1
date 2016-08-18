@@ -6,7 +6,7 @@ public class TestClass {
 
     @Test
     public void checkIsTrue(){
-        assertTrue(2 == Run.alwayaTrue(4,2));
+        assertTrue(Run.alwayaTrue());
 
     }
 
